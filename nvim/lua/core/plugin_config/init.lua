@@ -13,4 +13,5 @@ require("core.plugin_config.oil")
 require("core.plugin_config.markdown_preview")
 require("core.plugin_config.swagger-preview")
 require("core.plugin_config.Neotree")
+require("core.plugin_config.FTerm")
 

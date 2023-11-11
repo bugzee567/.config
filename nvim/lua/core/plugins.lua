@@ -29,10 +29,11 @@ return require('packer').startup(function(use)
   use 'lewis6991/gitsigns.nvim'
   use 'preservim/vimux'
   use 'christoomey/vim-tmux-navigator'
-  use 'tpope/vim-fugitive'
   use 'tpope/vim-surround'
   use 'stevearc/oil.nvim'
   use 'vimwiki/vimwiki'
+  use "numToStr/FTerm.nvim"
+  use "tpope/vim-fugitive"
   -- completion
   use 'hrsh7th/nvim-cmp'
   use 'hrsh7th/cmp-nvim-lsp'
